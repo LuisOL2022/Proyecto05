@@ -85,7 +85,7 @@ export function Home() {
                             <Card.Img variant="top" src="https://imagenes.elpais.com/resizer/2rSNE0URbOppybb8MvSqL3pOxhE=/980x980/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2CJQNYG32RAGXJYXG5CTYLNWO4.png" />
                                 <Card.Title>Juegos de nintendo switch</Card.Title>
                                 <Card.Text>
-                                    Lo mas nuevo en nintendo switch aqui lo encontraras.
+                                    Lo mas nuevo tendo switch aqui lo encontraras.
                                 </Card.Text>
                             </Card.Body>
                         </Card>

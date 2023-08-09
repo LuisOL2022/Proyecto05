@@ -1,0 +1,47 @@
+.card {
+    width: 18rem;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+
+}
+
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.card-text {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+.card-body .text-center:last-child {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.card-body .btn {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.card-body .btn-primary:last-child {
+    background-color: #4caf50;
+}
+
+
+.card-body .btn-primary:last-child:hover {
+    background-color: #45a049;
+}

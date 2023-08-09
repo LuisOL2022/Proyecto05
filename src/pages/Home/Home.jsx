@@ -74,7 +74,7 @@ export function Home() {
                             <Card.Img variant="top" src="https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1676380949-41W9CRYlx6L._SL500_.jpg?crop=1xw:1xh;center,top&resize=980:*" />
                                 <Card.Title>Juegos de xbox serie s</Card.Title>
                                 <Card.Text className='card-text'>
-                                Amplio catalogo de xbox tanto fisico como virtual.
+                                Amplio catalogo de xbox tanto asdasd fisico como virtual.
                                 </Card.Text>
                             </Card.Body>
                         </Card>
